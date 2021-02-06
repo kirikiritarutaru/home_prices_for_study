@@ -1,7 +1,8 @@
-home_prices_sample
+House Prices
 ==============================
 
-A short description of the project.
+勉強用
+Kaggle:House Prices - Advanced Regression Techniques
 
 Project Organization
 ------------
